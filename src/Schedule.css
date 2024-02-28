@@ -1,0 +1,26 @@
+.schedule-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .matchups {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .matchup {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .home,
+  .away {
+    flex: 1;
+  }
+  
+  .versus {
+    margin: 0 10px;
+  }
+  
