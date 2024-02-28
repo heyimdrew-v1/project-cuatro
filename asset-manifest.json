@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-cuatro/static/css/main.99efd654.css",
+    "main.js": "/project-cuatro/static/js/main.6c0f397d.js",
+    "static/js/453.3ce08471.chunk.js": "/project-cuatro/static/js/453.3ce08471.chunk.js",
+    "index.html": "/project-cuatro/index.html",
+    "main.99efd654.css.map": "/project-cuatro/static/css/main.99efd654.css.map",
+    "main.6c0f397d.js.map": "/project-cuatro/static/js/main.6c0f397d.js.map",
+    "453.3ce08471.chunk.js.map": "/project-cuatro/static/js/453.3ce08471.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99efd654.css",
+    "static/js/main.6c0f397d.js"
+  ]
+}
